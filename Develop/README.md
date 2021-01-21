@@ -39,9 +39,10 @@
 
   ## Questions 
   
-  Screenshot/Video:
+  ## Screenshot/Video:
   
-  nodereadmefile.png
-  
-  Video.mov
+  <img width="886" alt="nodereadmefile" src="https://user-images.githubusercontent.com/71395909/105422785-55961d00-5c12-11eb-8bc8-0174e14cb121.png">
+
+
+  https://user-images.githubusercontent.com/71395909/105422795-59c23a80-5c12-11eb-8fb2-8847c1c41397.mov
   
