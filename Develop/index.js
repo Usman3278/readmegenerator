@@ -95,7 +95,6 @@ async function init (){
     try{
         const responses = await inquirer.prompt(questions)
         const userGithub= await axios.get(`https://api.github.com/users/${responses.username}`)
-        console.log(userGithub.data)
 
         const output= markup(responses,userGithub.data)
         await writeAsyncFile('README.md',output)
